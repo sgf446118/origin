@@ -1,6 +1,5 @@
 import time
 from selenium.webdriver.common.by import By
-
 from behave import step
 from features.selenium_api.selenium_api import SeleniumAPI
 import logging

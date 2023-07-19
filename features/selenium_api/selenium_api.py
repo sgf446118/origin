@@ -2,6 +2,7 @@ import time
 
 from selenium import webdriver
 import logging
+
 logging.getLogger().setLevel(logging.INFO)
 
 class SeleniumAPI():

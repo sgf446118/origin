@@ -1,6 +1,6 @@
 Feature: test_imooc
 
-@mytest
+@mytest1
   Scenario:login imooc
     Given open chrome browser
     And input url <https://www.imooc.com>
